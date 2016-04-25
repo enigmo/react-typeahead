@@ -29,11 +29,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fmoo/react-typeahead.git"
+    "url": "git+https://github.com/enigmo/react-typeahead.git#1.1.x"
   },
   "dependencies": {
     "classnames": "^1.2.0",
-    "fuzzy": "staydecent/fuzzy#v0.1.2"
+    "fuzzy": "git+https://github.com/enigmo/fuzzy.git#v0.1.2"
   },
   "peerDependencies": {
     "react": ">= 0.14.0"
