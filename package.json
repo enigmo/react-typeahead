@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "classnames": "^1.2.0",
-    "fuzzy": "git+https://github.com/enigmo/fuzzy.git#v0.1.3"
+    "fuzzy": "git+https://github.com/enigmo/fuzzy.git#v0.1.4"
   },
   "peerDependencies": {
     "react": ">= 0.14.0"
